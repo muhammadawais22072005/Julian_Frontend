@@ -23,3 +23,4 @@ class JulianMedicalApp extends StatelessWidget {
       home: const LandingScreen(),
     );
   }
+}
