@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lucide_icons/lucide_icons.dart';
+import 'package:lucide_icons_flutter/lucide_icons.dart';
 import 'package:julian_medical_center/presentation/theme/app_theme.dart';
 import 'package:julian_medical_center/providers/auth_provider.dart';
 import 'package:julian_medical_center/presentation/screens/admin_dashboard_screen.dart';
@@ -281,7 +281,7 @@ class _AuthGatewayScreenState extends ConsumerState<AuthGatewayScreen> {
                     // Social Sign In
                     OutlinedButton.icon(
                       onPressed: () {},
-                      icon: const Icon(LucideIcons.chrome, color: Colors.blue, size: 16),
+                      icon: const Icon(LucideIcons.globe, color: Colors.blue, size: 16),
                       label: Text("Continue with Google", style: GoogleFonts.inter(fontSize: 13, color: AppTheme.textDark)),
                       style: OutlinedButton.styleFrom(
                         minimumSize: const Size(double.infinity, 44),

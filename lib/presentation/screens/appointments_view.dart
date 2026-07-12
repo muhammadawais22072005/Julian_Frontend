@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lucide_icons/lucide_icons.dart';
+import 'package:lucide_icons_flutter/lucide_icons.dart';
 import 'package:julian_medical_center/presentation/theme/app_theme.dart';
 import 'package:julian_medical_center/data/models/appointment_model.dart';
 import 'package:julian_medical_center/providers/appointment_provider.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lucide_icons/lucide_icons.dart';
+import 'package:lucide_icons_flutter/lucide_icons.dart';
 import 'package:julian_medical_center/presentation/theme/app_theme.dart';
 import 'package:julian_medical_center/presentation/widgets/responsive_builder.dart';
 import 'package:julian_medical_center/presentation/screens/auth_gateway_screen.dart';
